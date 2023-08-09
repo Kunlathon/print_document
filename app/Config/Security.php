@@ -99,3 +99,4 @@ class Security extends BaseConfig
      */
     public string $samesite = 'Lax';
 }
+?>

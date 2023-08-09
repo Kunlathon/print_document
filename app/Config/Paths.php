@@ -78,3 +78,4 @@ class Paths
      */
     public string $viewDirectory = __DIR__ . '/../Views';
 }
+?>
