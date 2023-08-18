@@ -3770,7 +3770,8 @@
 
 
 
-
+<h1>5555555</h1>
+<?php include(APPPATH . 'Views/structure/admin_structure/test.php'); ?>
 
 
 
